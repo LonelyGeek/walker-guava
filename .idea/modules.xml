@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/walker-guava.iml" filepath="$PROJECT_DIR$/.idea/modules/walker-guava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/walker-guava_main.iml" filepath="$PROJECT_DIR$/.idea/modules/walker-guava_main.iml" group="walker-guava" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/walker-guava_test.iml" filepath="$PROJECT_DIR$/.idea/modules/walker-guava_test.iml" group="walker-guava" />
+    </modules>
+  </component>
+</project>
